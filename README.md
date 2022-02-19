@@ -8,14 +8,14 @@
 * [Mohaiminul Islam Shishir](https://github.com/Mohaiminul69)
 * [Fahim Ashhab](https://github.com/Fahim-BAUST)
 
-### Project Features
+## Project Features
 * Users can add books to their reading list, marked as finished list, remove from finished list.
 * Users can buy books with Stripe.
 * State management with React-Redux and Redux-thunk.
 * Authenticated with FIrebase.
 * Implemented Unit test and bug fixing.
 
-### Techonologies/Packages
+## Techonologies/Packages
 * React
 * React-Router
 * Redux
